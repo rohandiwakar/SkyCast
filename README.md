@@ -1,11 +1,9 @@
 # 🌤️ SkyCast – Smart Weather Forecast App
-## 🌤️ SkyCast – Smart Weather Forecast App
-### 🌤️ SkyCast – Smart Weather Forecast App
 
 SkyCast is a modern and intuitive weather forecast mobile application built using React Native & Expo.
 It provides real-time weather updates, a minimal UI, and smooth performance to help users plan their day smarter 🌦️
 
-🚀 Features
+# 🚀 Features
 
 🌡️ Real-time temperature updates
 
@@ -19,14 +17,14 @@ It provides real-time weather updates, a minimal UI, and smooth performance to h
 
 📱 Works on both Android & iOS
 
-🛠️ Tech Stack
-📌 Frontend
+## 🛠️ Tech Stack
+### 📌 Frontend
 
 ⚛️ React Native
 
 🚀 Expo
 
-📌 Tools & Configuration
+### 📌 Tools & Configuration
 
 📦 Expo CLI
 
@@ -34,23 +32,8 @@ It provides real-time weather updates, a minimal UI, and smooth performance to h
 
 🧭 App routing with Expo Router
 
-📂 Project Structure
-🗂️ Folder Overview
-SkyCast/
-│── app/                # App screens & navigation
-│── assets/             # Images, icons & fonts
-│── .expo/              # Expo related files
-│── app.json            # App configuration
-│── package.json        # Dependencies
-│── README.md           # Documentation
 
-📸 App Screenshots
-🖼️ Preview
-
-Add screenshots here (Home Screen, Weather Screen, Location Access Screen)
-Screenshots make your project more attractive to recruiters 📱✨
-
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/SkyCast.git
 
@@ -64,7 +47,7 @@ npm install
 npx expo start
 
 
-📲 Scan the QR code using Expo Go App to run on your mobile device.
+## 📲 Scan the QR code using Expo Go App to run on your mobile device.
 
 🎯 Future Enhancements
 
@@ -78,7 +61,7 @@ npx expo start
 
 🗺️ Interactive weather maps
 
-🧠 What I Learned
+## 🧠 What I Learned
 
 Building mobile apps with React Native
 
@@ -88,7 +71,7 @@ Managing assets & app configuration
 
 Structuring scalable mobile projects
 
-🤝 Contribution
+## 🤝 Contribution
 Want to contribute?
 
 🍴 Fork the repository
@@ -101,13 +84,13 @@ Want to contribute?
 
 Contributions are always welcome 🚀
 
-📜 License
+## 📜 License
 📄 MIT License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and distribute it.
 
-⭐ Support
+## ⭐ Support
 
 If you like SkyCast, don’t forget to give it a star ⭐
 Your support motivates me to build more awesome projects 💙
